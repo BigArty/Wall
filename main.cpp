@@ -130,4 +130,5 @@ int main() {
     pthread_join(p, NULL);
     pthread_join(s, NULL);
     pthread_join(prnt, NULL);
+    
 }
